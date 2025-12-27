@@ -3,33 +3,14 @@ import { ArrowRight, ExternalLink, Github } from 'lucide-react'
 const projects = [
     {
         id: 1,
-        title: "Saas Landing Page",
-        description: "A beautiful landing page app using react and tailwind.",
+        title: "Smart Attendance System: Using Facial Recognition Technologys",
+        description: "Smart Attendance system automates attendance tracking using advanced face recognition technology integrated with cloud-based data storage. ",
         image: "/projects/project1.jpg",
-        tags: ["React", "Tailwindcss", "Supabase"],
-        demoUrl: "#",
-        githubUrl: "#"
-    },
-    {
-        id: 2,
-        title: "attendance system",
-        description: "A beautiful landing page app using react and tailwind.",
-        image: "/projects/project2.jpg",
-        tags: ["python", "Tailwindcss", "Supabase"],
-        demoUrl: "#",
-        githubUrl: "#"
-    },
-    {
-        id: 3,
-        title: "new system",
-        description: "A beautiful landing page app using react and tailwind.",
-        image: "/projects/project3.jpg",
-        tags: ["python", "Tailwindcss", "Supabase"],
-        demoUrl: "#",
+        tags: ["Python", "Pycharm", "OpenCV", "Face Recognition", "Numpy", "Firebase"],
+        demoUrl: "https://www.ijfmr.com/research-paper.php?id=23705",
         githubUrl: "#"
     }
 ]
-
 export function ProjectSection() {
     return (<section id="projects" className="py-24 px-4 relative">
         <div className="container mx-auto max-w-5xl">

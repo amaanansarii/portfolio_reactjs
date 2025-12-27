@@ -88,8 +88,8 @@ export function ContactSection() {
                             </div>
                             <div>
                                 <h4 className="font-medium">Email</h4>
-                                <a href="mailto:amaanansari790786@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
-                                    amaanansari790786@gmail.com
+                                <a href="mailto:amaanansari864@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
+                                    amaanansari864@gmail.com
                                 </a>
                             </div>
                         </div>
@@ -113,7 +113,7 @@ export function ContactSection() {
                             <div>
                                 <h4 className="font-medium">Location</h4>
                                 <a className="text-muted-foreground hover:text-primary transition-colors">
-                                    Haldwani, Nainital
+                                    Haldwani, Uttarakhand, India
                                 </a>
                             </div>
                         </div>

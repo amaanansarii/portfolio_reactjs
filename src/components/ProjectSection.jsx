@@ -69,7 +69,7 @@ export function ProjectSection() {
                 ))}
             </div>
             <div className='text-center mt-12'>
-                    <a href="https://github.com/amaanansari2604" target='_blank' className='cosmic-button w-fit flex items-center mx-auto gap-2'>Check My Github <ArrowRight size={16}/></a>
+                    <a href="https://github.com/amaanansarii" target='_blank' className='cosmic-button w-fit flex items-center mx-auto gap-2'>Check My Github <ArrowRight size={16}/></a>
             </div>
         </div>
     </section>)

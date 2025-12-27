@@ -15,7 +15,7 @@ export function Home(){
            {/* theme toggle */}
             <ThemeToggle/>
            {/* background effects */}
-            <StarBackground/>
+            {/* <StarBackground/> */}
            {/* navbar */}
             <Navbar/>
            {/* main content */}

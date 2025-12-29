@@ -14,10 +14,10 @@ export function AboutSection(){
                         <h3 className="text-2xl font-semibold">Passionate Web Developer</h3>
 
                         <p className="text-muted-foreground">
-                            with our 5 years of experience in web development, i specialize and this context to be edited
+                            With over 1 year of hands-on experience in web development, I specialize in building modern, responsive, and user-focused web applications using React.js and Next.js.
                         </p>
                          <p className="text-muted-foreground">
-                            I'm Passionate about creating elegant solutions to complex problem.
+                           I hold a Master’s degree in Computer Science and have qualified the UGC NET examination. I enjoy working on real-world problems, collaborating with teams, and continuously learning new technologies to improve performance, scalability, and user experience.Alongside professional work, I have contributed to social initiatives through my NGO, Go Clean Go Green, and have experience mentoring and teaching students.
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -37,7 +37,7 @@ export function AboutSection(){
                                 </div>
                                 <div className='text-left'>
                                     <h4 className='font-semibold text-lg'>Web Development</h4>
-                                    <p>Creating responsive websites and web applications with modern frameworks</p>
+                                    <p>Building responsive and scalable web applications using React.js, Next.js, JavaScript, and modern UI practices.</p>
                                 </div>
                             </div>
                         </div>
@@ -48,7 +48,7 @@ export function AboutSection(){
                                 </div>
                                 <div className='text-left'>
                                     <h4 className='font-semibold text-lg'>UI/UX design</h4>
-                                    <p>Designing intuitive user interfaces and seamless user experiences.</p>
+                                    <p>Creating clean, intuitive, and accessible user interfaces with a focus on usability and performance.</p>
                                 </div>
                             </div>
                          </div>
@@ -58,8 +58,8 @@ export function AboutSection(){
                                     <Briefcase className='h-6 w-6 text-primary'/>
                                 </div>
                                 <div className='text-left'>
-                                    <h4 className='font-semibold text-lg'>Project Management</h4>
-                                    <p>Leading projects from conception to completion with agile metohdolgies.</p>
+                                    <h4 className='font-semibold text-lg'>Project & Collaboration</h4>
+                                    <p>Experience working in team environments, handling real-world projects, meeting deadlines, and maintaining clean, efficient codebases.</p>
                                 </div>
                             </div>
                           </div>

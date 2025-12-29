@@ -10,7 +10,7 @@ export function HomeSection(){
                     <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">Ansari</span>
                 </h1>
                 <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-4">
-                    Software Engineer with 1+ years of experience in front-end development, proficient in building responsive and scalable web applications. Qualified UGC NET with a strong academic record, holding an MSc in Computer Science with 80% marks. Proven ability to design and implement user-friendly interfaces using JavaScript and modern frameworks like React.js and Next.js.
+                    Software Engineer with 1+ year of experience in front-end development, specializing in building responsive and scalable web applications using React.js and Next.js. UGC NET qualified with a strong academic background in Computer Science and hands-on experience in real-world projects. Passionate about clean UI, performance-optimized code, and turning ideas into user-friendly digital experiences.
                 </p>
 
                 <div className="pt-4 opacity-0 animate-fade-in-delay-4">

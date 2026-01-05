@@ -2,13 +2,21 @@ import { ArrowRight, ExternalLink, Github } from 'lucide-react'
 
 const projects = [
     {
+        // id: 1,
+        // title: "Smart Attendance System: Using Facial Recognition Technologys",
+        // description: "Smart Attendance system automates attendance tracking using advanced face recognition technology integrated with cloud-based data storage. ",
+        // image: "/projects/project1.jpg",
+        // tags: ["Python", "Pycharm", "OpenCV", "Face Recognition", "Numpy", "Firebase"],
+        // demoUrl: "https://www.ijfmr.com/research-paper.php?id=23705",
+        // githubUrl: "#",
+
         id: 1,
-        title: "Smart Attendance System: Using Facial Recognition Technologys",
-        description: "Smart Attendance system automates attendance tracking using advanced face recognition technology integrated with cloud-based data storage. ",
-        image: "/projects/project1.jpg",
-        tags: ["Python", "Pycharm", "OpenCV", "Face Recognition", "Numpy", "Firebase"],
-        demoUrl: "https://www.ijfmr.com/research-paper.php?id=23705",
-        githubUrl: "#"
+        title: "Ecommerce Website",
+        description: "Ecommerce website built with Next.js and Tailwind CSS, featuring Stripe integration for seamless payment processing and a responsive design for optimal user experience across devices.",
+        image: "/projects/project1.png",
+        tags: ["Nextjs", "Tailwind CSS", "Stripe", "Typescript"],
+        demoUrl: "https://ecommerce-website-nextjs-n8r0ynvpf.vercel.app/",
+        githubUrl: "https://github.com/amaanansarii/ecommerce_website_nextjs"
     }
 ]
 export function ProjectSection() {
